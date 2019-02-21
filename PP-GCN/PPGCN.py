@@ -66,7 +66,7 @@ def get_data(ix,int_batch):
 
 # In[8]:
 
-class GCNPair(object):
+class PPGCN(object):
     def __init__(self, session,
                  meta,
                  nodes,
